@@ -1,0 +1,6 @@
+Flask==2.1.1
+jsonify
+fpdf
+tkinter
+psutil==5.9.5
+subprocess

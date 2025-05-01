@@ -1,0 +1,27 @@
+======= Printer & Carbon Footprint Report =======
+Generated on: 2025-02-17 13:05:51.435810
+
+User Role: student
+Username: fgc
+Age: 44
+
+Printer Model: HP LaserJet Pro MFP M227fdw
+Manufacturer: HP
+Printer Status: Offline
+Connection Type: WiFi
+MAC Address: 00:1A:2B:3C:4D:5E
+Duplex Printing: No
+Pages Printed: 3070
+Print Type: High-Quality Printing
+Carbon Footprint (kg CO₂): 30.7
+
+Cartridges Status:
+ - Black (OK, 73% remaining)
+ - Cyan (Low, 8% remaining)
+ - Magenta (OK, 53% remaining)
+ - Yellow (Low, 15% remaining)
+
+Paper Tray Info:
+ - Tray 1: A4 (189 sheets remaining)
+ - Tray 2: Letter (188 sheets remaining)
+===============================================
